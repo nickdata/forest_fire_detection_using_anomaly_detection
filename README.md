@@ -1,0 +1,2 @@
+# forest_fire_detection_using_anomaly_detection
+Anomaly Detection of Images
